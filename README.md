@@ -1,7 +1,7 @@
 - 👋 Hi beautiful souls, I'm Ade Rustiawati Wijaya. nice to meet you all :) 
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Automation testing on JakartaLabs Bootcamp
-- 📫 reach me on aderwijaya28@gmail.com
+- 📫 reach me on aderustiawati@gmail.com
 - have a great day y'all !!!
 
 <!---
